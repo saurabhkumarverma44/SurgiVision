@@ -1,0 +1,4 @@
+category,count,description
+normal,100,Normal chest X-rays
+covid,50,COVID-19 positive cases
+pneumonia,75,Pneumonia cases
